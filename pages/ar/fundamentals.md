@@ -10,7 +10,7 @@
 
 <ul>
 <li>
-<a href='.../en/fundamentals.md'>
+<a href='../en/fundamentals.md'>
  English - الانجليزية
 </a>
 </li>
