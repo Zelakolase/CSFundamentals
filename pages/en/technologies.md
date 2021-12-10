@@ -1,10 +1,10 @@
 <h1 align='center'>Technologies</h1>
 
-#### [Main Page](../../README.md)
+#### [Main Page](../../README)
 
 #### Languages
 
-- [Arabic - العربية](../ar/technologies.md)
+- [Arabic - العربية](../ar/technologies)
 
 ## A Mother Language
 

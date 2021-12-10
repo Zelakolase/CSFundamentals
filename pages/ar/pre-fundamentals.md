@@ -1,6 +1,6 @@
 <div dir='rtl'>
 
-<a href='./index.md'>
+<a href='./index'>
 الصفحة الرئيسية
 </a>
 
@@ -10,7 +10,7 @@
 
 <ul>
 <li>
-<a href='../en/pre-fundamentals.md'>
+<a href='../en/pre-fundamentals'>
  English - الانجليزية
 </a>
 </li>

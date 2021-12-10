@@ -5,7 +5,7 @@
 <ul>
 
 <li>
-<a href='../../README.md'>
+<a href='../../README'>
  English - الانجليزية
 </a>
 </li>
@@ -19,19 +19,19 @@
 <ul>
 
 <li>
-<a href='./pre-fundamentals.md'>
+<a href='./pre-fundamentals'>
 ما قبل الأساسيات
 </a>
 </li>
 
 <li>
-<a href='./fundamentals.md'>
+<a href='./fundamentals'>
 الأساسيات
 </a>
 </li>
 
 <li>
-<a href='./technologies.md'>
+<a href='./technologies'>
 التقنيات
 </a>
 </li>

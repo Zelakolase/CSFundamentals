@@ -1,10 +1,10 @@
 <h1 align='center'>Pre-Fundamentals</h1>
 
-#### [Main Page](../../README.md)
+#### [Main Page](../../README)
 
 #### Languages
 
-- [Arabic - العربية](../ar/pre-fundamentals.md)
+- [Arabic - العربية](../ar/pre-fundamentals)
 
 ## Learn Google
 

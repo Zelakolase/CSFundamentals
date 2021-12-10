@@ -1,10 +1,10 @@
 <h1 align='center'>Fundmentals</h1>
 
-#### [Main Page](../../README.md)
+#### [Main Page](../../README)
 
 #### Languages
 
-- [Arabic - العربية](../ar/fundamentals.md)
+- [Arabic - العربية](../ar/fundamentals)
 
 ## **Learn Computer Programming Basics**
 
