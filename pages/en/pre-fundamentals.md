@@ -1,10 +1,10 @@
 <h1 align='center'>Pre-Fundamentals</h1>
 
-#### [Main Page](../../README)
+#### [Main Page](../../README.md)
 
 #### Languages
 
-- [Arabic - العربية](../ar/pre-fundamentals)
+- [Arabic العربية](../ar/pre-fundamentals.md)
 
 ## Learn Google
 
@@ -24,7 +24,7 @@ Google is your best friend, Google will be **extremely** helpful for solving you
 
 [How do computers work? A simple introduction](https://www.explainthatstuff.com/howcomputerswork.html)
 
-[How Does a Computer Work? - Geeks on Site](https://geeksonsite.com/blog/how-does-a-computer-work/)
+[How Does a Computer Work? Geeks on Site](https://geeksonsite.com/blog/how-does-a-computer-work/)
 
 [Learn Computer Fundamentals Tutorial - javatpoint](https://www.javatpoint.com/computer-fundamentals-tutorial)
 
@@ -32,7 +32,7 @@ Google is your best friend, Google will be **extremely** helpful for solving you
 <br>
 <br>
 
-> **Possible Learning Outcomes**
+### **Possible Learning Outcomes**
 
 - What's a CPU
 - Importance of Random Access Memory

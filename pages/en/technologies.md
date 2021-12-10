@@ -1,10 +1,10 @@
 <h1 align='center'>Technologies</h1>
 
-#### [Main Page](../../README)
+#### [Main Page](../../README.md)
 
 #### Languages
 
-- [Arabic - العربية](../ar/technologies)
+- [Arabic العربية](../ar/technologies.md)
 
 ## A Mother Language
 
@@ -18,7 +18,7 @@ Select one Mother Language, and search for tutorials for it!What I highly recomm
 
 You have to learn these in your language. For example, try to learn about how to transfer data through TCP using CPP (or your language). And how to handle errors.
 
-## \***\*Select a route\*\***
+## **Select a route**
 
 - **Web Development**
 

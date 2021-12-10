@@ -1,20 +1,10 @@
 <div dir='rtl'>
 
-<a href='./index'>
-الصفحة الرئيسية
-</a>
-
-<br>
+#### [الصفحة الرئيسية](index.md)
 
 #### اللغات
 
-<ul>
-<li>
-<a href='../en/pre-fundamentals'>
- English - الانجليزية
-</a>
-</li>
-</ul>
+- [English الانجليزية](../en/pre-fundamentals.md)
 
 <h1 align='center'>ما قبل الأساسيات</h1>
 
@@ -24,74 +14,28 @@
 
 > ربما يكون مفيداً
 
-<ul>
-<li>
-<a href='https://www.lifehack.org/articles/technology/20-tips-use-google-search-efficiently.html'>
+[20 نصيحة لإستخدام جوجل بكفاءة أكبر](https://www.lifehack.org/articles/technology/20-tips-use-google-search-efficiently.html)
 
-20 نصيحة لإستخدام جوجل بكفاءة أكبر
-</a>
-
-</li>
-
-<li>
-<a href='https://www.pcmag.com/how-to/23-google-search-tips-youll-want-to-learn'>
-
-23 عشرون نصيحة للبحث في جوجل ستود معرفتها
-</a>
-
-</li>
-</ul>
+[23 عشرون نصيحة للبحث في جوجل ستود معرفتها](https://www.pcmag.com/how-to/23-google-search-tips-youll-want-to-learn)
 
 <br>
 <br>
 
 ## تعلم كيفية عمل الحاسوب
 
-<ul>
-<li>
-<a href='https://www.explainthatstuff.com/howcomputerswork.html'>
+[كيف تعمل أجهزة الكمبيوتر؟ مقدمة بسيطة.](https://www.explainthatstuff.com/howcomputerswork.html)
 
-كيف تعمل أجهزة الكمبيوتر؟ مقدمة بسيطة.</a>
+[كيف يعمل الكمبيوتر؟ المهوسون في الموقع](https://geeksonsite.com/blog/how-does-a-computer-work/)
 
-</li>
-
-<li>
-<a href='https://geeksonsite.com/blog/how-does-a-computer-work/'>
-
-كيف يعمل الكمبيوتر؟ - المهوسون في الموقع
-</a>
-
-</li>
-
-<li>
-<a href='https://www.javatpoint.com/computer-fundamentals-tutorial'>
-
-برنامج تعليمي لأساسيات الكمبيوتر بواسطة JavatPoint (موصى به للغاية)</a>
-
-</li>
-</ul>
+[برنامج تعليمي لأساسيات الكمبيوتر بواسطة JavatPoint (موصى به للغاية)
+](https://www.javatpoint.com/computer-fundamentals-tutorial)
 
 <br>
 <br>
 
 ## **مخرجات التعلم الممكنة**
 
-<ul>
-<li>
-  ما هي وحدة المعالجة المركزية
-
-</li>
-
-<li>
- أهمية ذاكرة الوصول العشوائي
-
-</li>
-
-<li>
- ما هو "Google Dorks"
-
-</li>
-
-</ul>
-
+- ما هي وحدة المعالجة المركزية
+- أهمية ذاكرة الوصول العشوائي
+- ما هو "Google Dorks"
 </div>

@@ -1,10 +1,10 @@
-<h1 align='center'>Fundmentals</h1>
-
-#### [Main Page](../../README)
+#### [Main Page](../../README.md)
 
 #### Languages
 
-- [Arabic - العربية](../ar/fundamentals)
+- [Arabic العربية](../ar/fundamentals.md)
+
+<h1 align='center'>Fundmentals</h1>
 
 ## **Learn Computer Programming Basics**
 
@@ -34,7 +34,7 @@ Networking is a fundamental thing to learn, you'll learn about the most popular 
 <br>
 <br>
 
-## **Possible Learning Outcomes**
+### **Possible Learning Outcomes**
 
 - Loops
 - Arrays
