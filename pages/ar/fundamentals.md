@@ -1,10 +1,8 @@
 <div dir='rtl'>
 
-<li>
-<a href='index.md'>
+<a href='./index.md'>
 الصفحة الرئيسية
 </a>
-</li>
 
 <br>
 
@@ -17,7 +15,6 @@
 </a>
 </li>
 </ul>
-- [English - الانجليزية]()
 
 <h1 align='center'>الأساسيات</h1>
 

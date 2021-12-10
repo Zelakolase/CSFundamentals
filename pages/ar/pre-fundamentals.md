@@ -1,20 +1,21 @@
 <div dir='rtl'>
 
-<li>
-<a href='index.md'>
+<a href='./index.md'>
 الصفحة الرئيسية
 </a>
-</li>
 
 <br>
 
 #### اللغات
 
+<ul>
 <li>
 <a href='../en/pre-fundamentals.md'>
  English - الانجليزية
 </a>
 </li>
+</ul>
+
 <h1 align='center'>ما قبل الأساسيات</h1>
 
 ## تعلم كيفية البحث على جوجل
