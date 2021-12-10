@@ -4,7 +4,7 @@
 
 #### Languages
 
-- [Arabic | العربية](../ar/technologies.md)
+- [Arabic - العربية](../ar/technologies.md)
 
 ## A Mother Language
 

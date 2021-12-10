@@ -4,7 +4,7 @@
 
 #### Languages
 
-- [Arabic | العربية](../ar/fundamentals.md)
+- [Arabic - العربية](../ar/fundamentals.md)
 
 ## **Learn Computer Programming Basics**
 

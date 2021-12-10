@@ -1,11 +1,20 @@
 <div dir='rtl'>
 
-#### [الصفحة الرئيسية](index.md)
+<li>
+<a href='index.md'>
+الصفحة الرئيسية
+</a>
+</li>
+
+<br>
 
 #### اللغات
 
-- [English - الانجليزية](../en/pre-fundamentals.md)
-
+<li>
+<a href='../en/pre-fundamentals.md'>
+ English - الانجليزية
+</a>
+</li>
 <h1 align='center'>ما قبل الأساسيات</h1>
 
 ## تعلم كيفية البحث على جوجل
@@ -14,28 +23,74 @@
 
 > ربما يكون مفيداً
 
-[20 نصيحة لإستخدام جوجل بكفاءة أكبر](https://www.lifehack.org/articles/technology/20-tips-use-google-search-efficiently.html)
+<ul>
+<li>
+<a href='https://www.lifehack.org/articles/technology/20-tips-use-google-search-efficiently.html'>
 
-[23 عشرون نصيحة للبحث في جوجل ستود معرفتها](https://www.pcmag.com/how-to/23-google-search-tips-youll-want-to-learn)
+20 نصيحة لإستخدام جوجل بكفاءة أكبر
+</a>
+
+</li>
+
+<li>
+<a href='https://www.pcmag.com/how-to/23-google-search-tips-youll-want-to-learn'>
+
+23 عشرون نصيحة للبحث في جوجل ستود معرفتها
+</a>
+
+</li>
+</ul>
 
 <br>
 <br>
 
 ## تعلم كيفية عمل الحاسوب
 
-[كيف تعمل أجهزة الكمبيوتر؟ مقدمة بسيطة.](https://www.explainthatstuff.com/howcomputerswork.html)
+<ul>
+<li>
+<a href='https://www.explainthatstuff.com/howcomputerswork.html'>
 
-[كيف يعمل الكمبيوتر؟ - المهوسون في الموقع](https://geeksonsite.com/blog/how-does-a-computer-work/)
+كيف تعمل أجهزة الكمبيوتر؟ مقدمة بسيطة.</a>
 
-[برنامج تعليمي لأساسيات الكمبيوتر بواسطة JavatPoint (موصى به للغاية)
-](https://www.javatpoint.com/computer-fundamentals-tutorial)
+</li>
+
+<li>
+<a href='https://geeksonsite.com/blog/how-does-a-computer-work/'>
+
+كيف يعمل الكمبيوتر؟ - المهوسون في الموقع
+</a>
+
+</li>
+
+<li>
+<a href='https://www.javatpoint.com/computer-fundamentals-tutorial'>
+
+برنامج تعليمي لأساسيات الكمبيوتر بواسطة JavatPoint (موصى به للغاية)</a>
+
+</li>
+</ul>
 
 <br>
 <br>
 
 ## **مخرجات التعلم الممكنة**
 
-- ما هي وحدة المعالجة المركزية
-- أهمية ذاكرة الوصول العشوائي
-- ما هو "Google Dorks"
+<ul>
+<li>
+  ما هي وحدة المعالجة المركزية
+
+</li>
+
+<li>
+ أهمية ذاكرة الوصول العشوائي
+
+</li>
+
+<li>
+ ما هو "Google Dorks"
+
+</li>
+
+</ul>
+
 </div>

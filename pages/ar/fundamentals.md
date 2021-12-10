@@ -1,10 +1,23 @@
 <div dir='rtl'>
 
-#### [الصفحة الرئيسية](index.md)
+<li>
+<a href='index.md'>
+الصفحة الرئيسية
+</a>
+</li>
+
+<br>
 
 #### اللغات
 
-- [English - الانجليزية](../en/fundamentals.md)
+<ul>
+<li>
+<a href='.../en/fundamentals.md'>
+ English - الانجليزية
+</a>
+</li>
+</ul>
+- [English - الانجليزية]()
 
 <h1 align='center'>الأساسيات</h1>
 
