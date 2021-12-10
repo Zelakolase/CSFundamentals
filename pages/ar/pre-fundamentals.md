@@ -4,7 +4,7 @@
 
 #### اللغات
 
-- [English | الانجليزية](../en/pre-fundamentals.md)
+- [English - الانجليزية](../en/pre-fundamentals.md)
 
 <h1 align='center'>ما قبل الأساسيات</h1>
 
@@ -25,7 +25,7 @@
 
 [كيف تعمل أجهزة الكمبيوتر؟ مقدمة بسيطة.](https://www.explainthatstuff.com/howcomputerswork.html)
 
-[كيف يعمل الكمبيوتر؟ | المهوسون في الموقع](https://geeksonsite.com/blog/how-does-a-computer-work/)
+[كيف يعمل الكمبيوتر؟ - المهوسون في الموقع](https://geeksonsite.com/blog/how-does-a-computer-work/)
 
 [برنامج تعليمي لأساسيات الكمبيوتر بواسطة JavatPoint (موصى به للغاية)
 ](https://www.javatpoint.com/computer-fundamentals-tutorial)

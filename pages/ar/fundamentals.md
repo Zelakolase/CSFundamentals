@@ -4,7 +4,7 @@
 
 #### اللغات
 
-- [English | الانجليزية](../en/fundamentals.md)
+- [English - الانجليزية](../en/fundamentals.md)
 
 <h1 align='center'>الأساسيات</h1>
 

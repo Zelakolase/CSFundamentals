@@ -1,6 +1,6 @@
 #### Languages
 
-- [Arabic | العربية](./pages/ar/index.md)
+- [Arabic - العربية](./pages/ar/index.md)
 
 <h1 align='center'>Start in Computer Science now !
 </h1>

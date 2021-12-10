@@ -1,5 +1,11 @@
 <h1 align='center'>Fundmentals</h1>
 
+#### [Main Page](../../README.md)
+
+#### Languages
+
+- [Arabic | العربية](../ar/fundamentals.md)
+
 ## **Learn Computer Programming Basics**
 
 This is a _critical_ principle in computer science.
