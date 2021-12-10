@@ -4,9 +4,7 @@
 
 This is a _critical_ principle in computer science.
 
-Videos like [this one](https://www.youtube.com/watch?v=gI-qXk7XojA) and [this one](https://www.youtube.com/watch?v=JQBRzsPhw2w) would be critical to your learning.
-
-> Videos would be critical to your learning
+### Videos would be critical to your learning
 
 [![ Boolean Logic & Logic Gates: Crash Course Computer Science #3
  ](https://img.youtube.com/vi/gI-qXk7XojA/0.jpg)](https://www.youtube.com/watch?v=gI-qXk7XojA "Boolean Logic & Logic Gates: Crash Course Computer Science #3
@@ -27,7 +25,10 @@ Networking is a fundamental thing to learn, you'll learn about the most popular 
 
 **I recommend you to search about what's HTTP and what's DNS. Use google**
 
-> **Possible Learning Outcomes**
+<br>
+<br>
+
+## **Possible Learning Outcomes**
 
 - Loops
 - Arrays

@@ -1,5 +1,11 @@
 <h1 align='center'>Technologies</h1>
 
+#### [Main Page](../../README.md)
+
+#### Languages
+
+- [Arabic | العربية](../ar/technologies.md)
+
 ## A Mother Language
 
 Select one Mother Language, and search for tutorials for it!What I highly recommend is learning Java, CPP, or C as a first language, as it makes you _forcibly_ learn topics like OOP (Object Oriented Programming) and TDD (Test-Driven Development) and other principles like KISS (Keep It Simple Stupid) and System Design.Essential Topics :
